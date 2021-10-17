@@ -20,7 +20,7 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gillommnathony/GdriveUploaderBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thantzinmyothant1/G-Drive-Upload-Bot-V3)
 
 ### Deploy on Railway
 
@@ -40,7 +40,7 @@ apt install -y git python3 ffmpeg
 ```
 - Clone this git repository.
 ```sh 
-git clone https://github.com/gillommnathony/GdriveUploaderBotV3
+git clone https://github.com/thantzinmyothant1/G-Drive-Upload-Bot-V3
 ```
 - Change Directory
 ```sh 
