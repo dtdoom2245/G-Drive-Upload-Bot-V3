@@ -41,8 +41,8 @@ def map(pos):
 
         button = [
             [
-             InlineKeyboardButton(text = 'Support Chat', url = "https://t.me/moedyiu"),
-             InlineKeyboardButton(text = 'Feature Request', url = "https://github.com/gillommnathony/GdriveUploaderBotV3")
+             InlineKeyboardButton(text = 'Support Chat', url = "https://t.me/tzmclomebot"),
+             InlineKeyboardButton(text = 'Feature Request', url = "https://github.com/thantzinmyothant1/G-Drive-Upload-Bot-V3")
             ],
             [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
 
